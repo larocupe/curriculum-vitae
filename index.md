@@ -1,0 +1,41 @@
+I am a motivated graduate with a First Class Honours degree whose competency and adaptability is demonstrated through my work in the cultural and charitable sectors. An enthusiastic team player, I pride myself in bringing creativity, initiative and analytical skills to my work. Currently teaching myself how to code as I enjoy the challenge and opportunity to learn. 
+EDUCATION
+University of Warwick, 2015-2018, History of Art(BA), First class honours
+Bootham School, YORK, September 2007- July 2014  
+August 2014 - A levels: Classical Civilisation (A), History (A), General Studies (A), Biology (B)                                
+August 2012 - GCSE’s: A*: Maths, English Literature, English Language, French, Art;  
+A: Biology, Chemistry, Physics, History, Latin; B: Geography
+Relevant Work EXPERIENCE 
+Visitor Experience Assistant, National Trust, Cumbria,              September 2018 - Present 
+I work in a team providing engaging and informed interpretation to visitors at Hill Top and the Beatrix Potter Gallery. 
+The role also requires initiative and flexibility, to maintain high conservation and security standards, cover retail duties and conduct health and safety checks.
+Youth engagement intern, British Red Cross, LONDON, June - September 2017
+I was responsible for the Summer Work Experience scheme, identifying placements within the organisation, shortlisting and interviewing candidates from 300 applications. I coordinated and led their induction and provided continued mentor support.
+I planned and hosted the annual Intern Showcase event, generated organisation-wide communication to select speakers and disseminate promotional material for the event. I was part of a team hosting delegates and speakers at the International Red Cross and Crescent Fundraising Conference.
+Student Staff Liaison Committee member, University of Warwick, October 2016- June 2018 
+I was elected by my peers to speak on their behalf in meetings with Departmental representatives and university course review boards. I played a proactive role in the implementation of career related tutor meetings, the continuation of study skills modules and reviews of the department’s assessment methods.
+Conservation Intern and volunteer at the National Railway Museum, York, January 2015 - April 2017
+Following a month-long internship at the National Railway Museum in their Conservation Department I became a part time volunteer. I assisted with large projects such as monitoring the condition of the Royal Carriages and preparing artefacts for exhibitions. 
+Further Work Experience 
+Student Ambassador, University of Warwick, October 2015 – June 2018 
+I worked as a team with my professors and peers, representing the department, engaging with prospective students and their families to inform them and promote the university.    
+History of art Society Treasurer, University of WARWICK,
+June 2017- June 2018 
+Effectively managed an events budget of £500 and coordinated with the treasurer of the larger History Society to negotiate and manage further expenses.       
+Nightline VOLUNTEER, University of WARWICK, January 2017 - June 2018
+ I provided confidential student support as part of a student run service team, throughout the term from 8PM-8AM. This included trained phone call responses, running a messaging service and attending to drop ins.     
+Raleigh International Volunteer, TANZANIA, October- December 2014
+Volunteered with this sustainable development organisation in Tanzania on health and education issues. As a team we produced learning materials, planned and led events in the community with minimal resources. I negotiated cross team working and built relationships with local groups to accomplish project objectives.
+Successfully undertook a series of fundraising challenges beforehand to achieve my £2000 target and to raise awareness of this youth orientated charitable organisation.
+Skills and achievements
+Proficient in Microsoft Office, Word, PowerPoint, Excel and Outlook.  
+2017- Code First Course, an 8-week introduction to coding and website development
+2016 - Beginners level Italian qualification from Ca’ Foscari University during 3-month term in Venice (as part of Warwick’s Venice Programme for History of Art)
+2015- Full Driving License
+2014 – Girlguiding Leadership Qualification 
+2011-2014 - Duke of Edinburgh’s Award at Gold, Silver and Bronze 
+2012,13,14- Lord Mayor of York Young Volunteer award recipient 
+
+Interests
+Historic Houses Association member, Advanced Open Water Diver- PADI recognised, former member of University of Warwick’s Mixed Hockey Club, Grade 7 piano player, keen traveler, skier and hiker. 
+REFERENCES Available on request 
