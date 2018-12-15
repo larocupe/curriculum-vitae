@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 # curriculum-vitae
 CV
-=======
->>>>>>> 1784c77fcb81a25a7d128deca2c5008c2626a6d6
+*learning the process of building your own website using the github repository* 
+### this is the readme 
