@@ -2,3 +2,46 @@
 ---
 
 @import "{{ site.theme }}";
+body{
+	color: rgba(0, 150, 136, 0.1) rgba-teal-slight;
+	font-family: 'Frank Ruhl Libre', sans-serif;
+	background-color: white;
+
+
+}
+.jumbotron{
+	min-height: 50vh;
+	padding-top: 100px;
+	background-colour: orange;
+	background-position:center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+#welcome_page{
+	min-height: 600px
+	color: #607d8b;
+    display: block;
+    background-color: rgba(0, 150, 136, 0.1);
+    padding-bottom: 50px;
+}
+
+
+h1{
+	color: #AFC5D2;
+
+}
+
+h2{
+	color: #546e7a;
+}
+
+.translucent-white {
+	background-color: rgba(255,255,255,0.8);
+}
+
+.custom-font{
+	font-family: 'Nothing You Could Do', cursive;
+}
+.main-custom-font{
+	font-family:'Frank Ruhl Libre', sans-serif;
+}
