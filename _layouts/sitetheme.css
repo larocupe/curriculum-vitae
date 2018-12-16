@@ -1,0 +1,35 @@
+@import "{{ site.theme }}";
+body{
+	color: rgba(0, 150, 136, 0.1) rgba-teal-slight;
+	font-family: 'Libre Baskervill', sans-serif;
+	background-color: white;
+}
+
+.jumbotron{
+	min-height: 50vh;
+	padding-top: 100px;
+	background-colour: orange;
+	background-position:center;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+h1{
+	color: ##ea832e;
+	font-family: 'Bodoni Antiqua', palatino;
+
+}
+
+h2{
+	color: #546e7a;
+}
+h3{
+	color: #435861;
+}
+h4{
+	color: #AFC5D2;
+}
+
+.translucent-white {
+	background-color: rgba(255,255,255,0.8);
+}
