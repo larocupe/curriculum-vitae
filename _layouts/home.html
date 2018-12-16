@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+      <!--Linked in Twitter Bootstrap framework. -->
+  <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
+  <script src="bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> 
+
+    <title>LAURA PEGG</title>
+  </head>
+  <body>
+    <div><h1>I am a first class graduate looking for a role that will challenge me</h1>
+      <h2>LAURA PEGG</h2>
+</div>
+
+    <header class="page-header" role="banner">
+      <div id='official' class="row">
+     <div class="row-sm-1"></div>
+    <p><a href="http://www.linkedin.co.uk/">LinkedIn</a></p>
+    <p><a href="http://www.Twitter.com">Twitter</a></p>
+    <h2 class="project-name">{{ site.title | default: site.github.repository_name }}</h2>
+    <h4 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h4>
+    <a href="{{ /about.html }}" target="_blank">Click here</a>
+        
+    </header>
