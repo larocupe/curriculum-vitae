@@ -17,7 +17,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+      <!--Linked in Twitter Bootstrap framework. -->
+  <link rel="stylesheet" href="bootstrap-3.3.7-dist/css/bootstrap.min.css"/>
+  <script src="bootstrap-3.3.7-dist/js/bootstrap.js"></script>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> 
     <title>LAURA PEGG</title>
   </head>
   <body>
@@ -82,6 +85,6 @@ References available on request
 
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-        <a href= class=""</a>
+      <h4 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h4>
+        <a href= class="about.html"</a>
     </header>
